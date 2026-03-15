@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AndroidVideoSync" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/bg_app_gradient</item>
+        <item name="android:statusBarColor">@color/bg_start</item>
+        <item name="android:navigationBarColor">@color/bg_start</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

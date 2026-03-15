@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_start">#08111A</color>
+    <color name="bg_mid">#0E1E2C</color>
+    <color name="bg_end">#163449</color>
+    <color name="panel_fill">#CC09131C</color>
+    <color name="panel_stroke">#335A8CB3</color>
+    <color name="field_fill">#1AFFFFFF</color>
+    <color name="field_stroke">#448FB6CF</color>
+    <color name="primary_button">#D7F06C</color>
+    <color name="primary_button_pressed">#BFD85E</color>
+    <color name="secondary_button">#20384C</color>
+    <color name="secondary_button_pressed">#2A4A62</color>
+    <color name="secondary_button_stroke">#4C7EA4</color>
+    <color name="text_primary">#F4F7F9</color>
+    <color name="text_secondary">#B8CBD7</color>
+    <color name="text_dark">#0B1520</color>
+</resources>

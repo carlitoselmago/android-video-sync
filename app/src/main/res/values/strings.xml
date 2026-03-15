@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Video Sync Follower</string>
+    <string name="device_admin_label">Android Video Sync Admin</string>
+    <string name="device_admin_description">Allows device-owner kiosk provisioning for the follower player.</string>
+    <string name="settings_eyebrow">Exhibition Follower</string>
+    <string name="settings_title">Follower Setup</string>
+    <string name="settings_subtitle">Pick the local playback file, tune the sync window, and optionally enable kiosk mode for unattended launches.</string>
+    <string name="video_card_title">Playback Source</string>
+    <string name="video_card_subtitle">Choose the local file the follower should play when sync packets arrive.</string>
+    <string name="sync_card_title">Sync Window</string>
+    <string name="sync_card_subtitle">These values control how tolerant the follower is to Wi-Fi jitter and when it seeks forward again.</string>
+    <string name="video_file_label">Video file</string>
+    <string name="browse_video">Browse…</string>
+    <string name="use_default_video">Use default</string>
+    <string name="kiosk_label">Kiosk mode on launch</string>
+    <string name="kiosk_subtitle">Starts lock task when the app opens. Use only on devices provisioned for kiosk mode.</string>
+    <string name="tolerance_label">Sync tolerance (seconds)</string>
+    <string name="tolerance_hint">0.3</string>
+    <string name="grace_label">Sync grace time (seconds)</string>
+    <string name="grace_hint">10</string>
+    <string name="jump_ahead_label">Sync jump ahead (seconds)</string>
+    <string name="jump_ahead_hint">2</string>
+    <string name="start_follower">Start follower</string>
+</resources>
